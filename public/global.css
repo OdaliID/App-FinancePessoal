@@ -1,0 +1,25 @@
+:root {
+  --white: #ffffff;
+  --purple: #363b96;
+  --black: #000000;
+  --purple-1:#f1dbf9;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background:var(--purple-1);
+  font-family: "Mulish";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 20px;
+}
+
+a {
+  text-decoration: none;
+}
